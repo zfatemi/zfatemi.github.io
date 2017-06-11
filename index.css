@@ -1,0 +1,74 @@
+html {
+    height: 100%;
+  }
+  body {
+     width: ;
+     height: ;
+  }
+
+  header {
+      color: white ;
+      background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Anarchist_flag.svg/220px-Anarchist_flag.svg.png) ;
+      background-repeat:no-repeat;
+      background-origin: border-box;
+      text-align: center;
+      background-size:100% 100% ;
+      margin: 20px;
+      border: 5px solid black;
+      padding: 50px;
+      font-size: 30px;
+      display: block;
+      border-radius: 10px;
+  }
+  nav {
+      float: left;
+  }
+  nav ul {
+      padding: ;
+      float: left;
+      border-bottom: ;
+      list-style-type: none;
+  }
+  nav li {
+      float: left;
+  }
+  nav li a {
+      display: block;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+      color: purple;
+  }
+  a {
+      color: ;
+  }
+  section {
+      width: 73%;
+      display: inline-block;
+      float: left;
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
+img{
+  width: 100%;
+  height: auto;
+  padding: 20px
+
+
+}
+}
